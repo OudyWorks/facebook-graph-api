@@ -2,7 +2,7 @@
   "name": "@oudy/facebook-graph-api",
   "version": "8.0.1",
   "description": "",
-  "main": "index.d.ts",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OudyWorks/facebook-graph-api.git"

@@ -1,1 +1,1 @@
-import './webhooks';
+export * from './webhooks';
